@@ -19,7 +19,7 @@ https://en.wikipedia.org/wiki/3D_tic-tac-toe
 
 ### Contact
 
-Contact the authors on Twitter: @cierniak.
+Contact the authors on Twitter: [@cierniak](https://twitter.com/cierniak).
 
 ### Art attribution:
 - [Cross, Naught, and Empty (blank)](https://commons.wikimedia.org/w/index.php?curid=2064271)
