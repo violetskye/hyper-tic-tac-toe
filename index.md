@@ -14,8 +14,13 @@ game you would need to make a line of length 4.
 For some games the perfect game is to achieve a tie. For some games the perfect game is for
 the first player to win.
 
-The 3-D game is also known under the name Qubic. You can read more about its history here:
-https://en.wikipedia.org/wiki/3D_tic-tac-toe
+The 3-D game is also known under the name Qubic. You can read more about its history [on Wikipedia](https://en.wikipedia.org/wiki/3D_tic-tac-toe)
+
+### Videos
+
+We will be adding videos to the [Figure Infinity YouTube channel](https://www.youtube.com/channel/UCVTAKF1u1qL3YzIJfIfKCMQ).
+
+[![A 3x3x3 game](https://img.youtube.com/vi/e__1yRP5Ims/0.jpg)](https://www.youtube.com/watch?v=e__1yRP5Ims)
 
 ### Contact
 
